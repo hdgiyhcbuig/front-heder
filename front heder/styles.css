@@ -1,0 +1,19 @@
+@import url(styles.css);
+@import url(styles/principal.css);
+body{
+    background-color: black;
+    /* alinha as div verticalmente */
+    height: 80px;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    /* distribui as divis verticalmente ao centro */
+    height: 80px;
+    /*ajuste a altura do cabeçalho conforme necessario */
+    border: 2px solid rgb(red, green, blue)
+}
+
+
+
